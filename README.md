@@ -1,1 +1,3 @@
 # ads-revenue-impact-on-sales
+
+In this project, I build and evaluate a simple linear regression model using Python. I employ the scikit-learn module for calculating the linear regression, while using pandas for data management, and seaborn for plotting. I work with the very popular Advertising data set to predict sales revenue based on advertising spending through mediums such as TV, radio, and newspaper. By the end of this project, I can explain the core ideas of linear regression to technical and non-technical audiences, build a simple linear regression model in Python with scikit-learn, employ Exploratory Data Analysis (EDA) to small data sets with seaborn and pandas, and evaluate a simple linear regression model using appropriate metrics.
